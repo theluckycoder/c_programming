@@ -40,6 +40,7 @@ int main(){
         printf("\nWavelength: %e",w);
         printf("\n***********************************************************");
         printf("\n Mean value of wavelengths: %e \n",mean);
+        printf( "byeeee");
     }
 
 }
